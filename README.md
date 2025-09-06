@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shaibu Mansour (SM)<br> 💻Full Stack Web Developer | 🚀 Founder | 🎓 Educator<br>With 1 years of full stack development experience, I'm passionate about building robust web applications and nurturing the next generation of developers.<br> 🛠️Tech Stack<br><br>Next.js | Node.js | hono |React Native<br>MongoDB | Prisma<br>Tailwind CSS | TypeScript<br><br>🏢Let's connect and build something amazing together! 🚀
+👋 Hi, I'm Shaibu Mansour (SM)<br> 💻Full Stack Web Developer <br>With 1 years of full stack development experience, I'm passionate about building robust web applications and nurturing the next generation of developers.<br> 🛠️Tech Stack<br><br>Next.js | Node.js | hono |React Native<br>MongoDB | Prisma<br>Tailwind CSS | TypeScript<br><br>🏢Let's connect and build something amazing together! 🚀
 
 
 ## 🌐 Socials:
